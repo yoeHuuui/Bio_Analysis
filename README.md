@@ -1,15 +1,15 @@
 # Bio_Analysis
-In this project, we have 3 type of datasets: RNA-seq, scRNA-seq and scATAC-seq.
+In this project, we have 3 type of datasets: __RNA-seq, scRNA-seq and scATAC-seq__.
 
 ## RNA-seq
-In this part, there are two scripts: RNA-seq.R and Diff.R  
-In the script in RNA-seq.R, you can see that  how I analyse the data for GO enrichment and different expression genes.
-In the script in Diff.R, you can see that how I compare the result of Gfold and DESeq2.
+In this part, there are two scripts: __RNA-seq.R__ and __Diff.R__  
+In the script in __RNA-seq.R__, you can see that  how I analyse the data for __GO enrichment__ and __different expression genes__.  
+In the script in __Diff.R__, you can see that how I compare the result of __Gfold and DESeq2__.
 
 ## scRNA-seq
-In this part, you can see that Seurat can analyse the data for clustering, finding marker genes and inferring the trajectory of development.
+In this part, you can see that __Seurat__ can analyse the data for __clustering, finding marker genes and inferring the trajectory of development__.
 
 ## scATAC-seq
-In this part, there are two scripts: scATAC-seq.R and CHIPseeker.R
-In the script in scATAC-seq.R, you can see that SnapATAC can analyse the data for clustering, peak calling and annotating.
-In the script in CHIPseeker.R, you can see the annotating for peak calling, analysing the proportion of gene types.
+In this part, there are two scripts: __scATAC-seq.R and CHIPseeker.R__  
+In the script in __scATAC-seq.R__, you can see that __SnapATAC__ can analyse the data for __clustering, peak calling and annotating___.  
+In the script in __CHIPseeker.R__, you can see the __annotating for peak calling, analysing the proportion of gene types__.
